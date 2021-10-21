@@ -44,7 +44,8 @@ def list_datasets():
     else:
         print("{} project does not contain any datasets.".format(project))
 
-# list_datasets('dataset_name')
+
+# list_datasets()
 
 
 def describe_dataset(dataset_id):
