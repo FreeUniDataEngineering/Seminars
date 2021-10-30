@@ -7,5 +7,6 @@ To run the Jupyter notebook (correctly :) ):
     pip install pandas
     pip install matplotlib
     pip install pyarrow
+    pip install ipython
 
 Do not forget to replace paths for csv files in Movies dataset 
